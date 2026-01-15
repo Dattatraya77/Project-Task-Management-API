@@ -36,27 +36,6 @@ This project is designed to demonstrate **senior-level DRF concepts** and is sui
 
 ---
 
-## 📁 Project Structure
-
-
-proj_task_mgmt_api/
-│
-├── proj_task_mgmt_api/
-│ ├── settings.py
-│ ├── urls.py
-│
-├── proj_mgmt_api/
-│ ├── models.py
-│ ├── serializers.py
-│ ├── views.py
-│ ├── permissions.py
-│ ├── signals.py
-│ ├── urls.py
-│
-└── manage.py
-
-
----
 
 ## ⚙️ Installation & Setup
 
