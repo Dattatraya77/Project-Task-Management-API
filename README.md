@@ -39,7 +39,7 @@ This project is designed to demonstrate **senior-level DRF concepts** and is sui
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone Repository
+### ➤ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/project-task-management-api.git
@@ -50,17 +50,17 @@ python -m venv venv
 source venv/bin/activate   # Linux / Mac
 venv\Scripts\activate      # Windows
 
-3️⃣ Install Dependencies
+➤ Install Dependencies
 pip install django djangorestframework djangorestframework-simplejwt
 
-4️⃣ Database Setup
+➤ Database Setup
 python manage.py makemigrations
 python manage.py migrate
 
-5️⃣ Create Superuser
+➤ Create Superuser
 python manage.py createsuperuser
 
-6️⃣ Run Server
+➤ Run Server
 python manage.py runserver
 
 
